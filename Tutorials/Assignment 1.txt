@@ -1,0 +1,12 @@
+ET A: Assignment 1.
+
+
+a) What is embedded System?
+b) What are the components of an embedded system
+c) give 4 examples of an embedded system
+d) By using a block diagram identify an embedded system based project.
+
+
+
+NB. This assignment is individual
+    To be submitted not later than Monday 22/03/2021.
